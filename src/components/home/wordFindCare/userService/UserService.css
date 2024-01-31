@@ -1,0 +1,11 @@
+.bg-h3{
+    background-color: #3b71aa;
+     height: 3px
+}
+.jc-center{
+    justify-content: center;
+}
+.h5-ta-center{
+    height: 50px;
+    text-align: center;
+}

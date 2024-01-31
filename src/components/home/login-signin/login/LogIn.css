@@ -1,0 +1,46 @@
+.step{
+    background-color: #ed8c2b;
+     height: 3px
+}
+.form-login{
+    margin: 64px 35%
+}
+
+.line {
+    flex: 1;
+    height: 1px;
+    background-color: #000; 
+    margin: 0 3px; 
+    align-self: center;
+  }
+  .forgot-password{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .forgot-password div{
+    padding: 10px;
+  }
+  .forgot-password div span{
+    color: #015ac8;
+     cursor: pointer
+  }
+  .login-google{
+    border: 1px solid #4285f4;
+     border-radius: 20px;
+      background-color: #4285f4;
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      margin: 25px 0;
+      cursor: pointer;
+  }
+  .login-google img{
+    width: 10%;
+  }
+  .login-google-content{
+    width: 70%;
+    margin: 10px 0 0 75px;
+    color: white  
+  }
+ 

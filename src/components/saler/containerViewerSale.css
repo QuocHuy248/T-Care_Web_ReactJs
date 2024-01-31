@@ -1,0 +1,76 @@
+.view-user-header{
+    display: flex;
+            justify-content: space-between;
+            align-self: center;
+            margin: 7px 40px 7px 40px;
+}
+.view-user-header-select{
+    width: 38%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.view-user-header-select-nav{
+    text-decoration: none; color: #213f5f
+}
+.view-user-header-select-navactive{
+    text-decoration: none; color: orangered
+}
+.view-user-header-select-nav-block{
+    text-align: center
+}
+.view-user-header-select-nav-block-icon{
+    font-size: 32px; color: #213f5f
+}
+.view-user-header-select-nav-block-title{
+    font-size: 13px
+}
+.view-user-header-select-profile{
+    cursor: pointer
+}
+.view-user-header-select-profile-block{
+    width: 32px;
+                  height: 32px;
+                  border: 1px solid #b3bac1;
+                  border-radius: 20px;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  background-color: #b3bac1;
+}
+.view-user-header-select-profile-block-name{
+    font-size: 13px; color: white
+}
+.view-user-header-select-profile-block-title{
+    font-size: 13px; padding-left: 6px
+}
+.box-profile{
+    margin: 5% 35%;
+    border: 1px solid #213f5f;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #213f5f;
+    width: 30%;
+    height: 100%;
+    color: white;
+}
+.profile{
+    text-decoration: none;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              cursor: pointer;
+}
+.profile:hover{
+    background-color: #b3bac1;
+    border: 1px solid #b3bac1;
+}
+.logout{
+    text-decoration: none;
+              display: flex;
+              justify-content: center;
+              margin-top: 10px;
+}
+.step-view-user{background-color: #ed8c2b; height: 3px}   

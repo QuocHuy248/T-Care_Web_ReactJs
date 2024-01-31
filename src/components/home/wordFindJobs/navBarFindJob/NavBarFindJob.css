@@ -1,0 +1,8 @@
+.background-image-assistant-sign-in{
+    background-image:
+    url(https://res.cloudinary.com/dw4xpd646/image/upload/v1703951657/Cloudinary-React/tadqa4zbzkd46bvbggxe.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 5% ;
+  height: 100%;
+}

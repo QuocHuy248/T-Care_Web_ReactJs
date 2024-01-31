@@ -1,0 +1,44 @@
+.container-dashboard-header{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+    align-items: baseline;
+}
+.container-dashboard-header-avatar{
+    display: flex; align-items: center
+}
+.container-dashboard-header-name-admin{
+    text-decoration: none; color: orangered
+}
+.container-dashboard-header-logout{
+    text-decoration: none; color: #212529 
+}
+.container-dashboard-separation{
+    height: 4px; background-color: #f7f7fa
+}
+.container-dashboard-separation-2{
+    height: 1px; background-color: #f7f7fa
+}
+.container-dashboard-select-page{
+    display: flex; width: 40%; justify-content: space-evenly;
+}
+
+.container-dashboard-select-page-nav-link{
+    text-decoration: none;
+    color: rgb(128 131 137)
+}
+.container-dashboard-select-page-nav-linkactive{
+    text-decoration: none;
+}
+.container-dashboard-select-page-nav-link-divactive{
+    border-bottom:3px solid #0d6efd;
+}
+.container-dashboard-body{
+    background-color: #f5f7fb;
+    padding: 50px 60px;
+}
+
+.MuiChartsAxis-directionY{
+    display: none;
+}

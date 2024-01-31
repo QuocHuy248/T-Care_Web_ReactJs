@@ -1,0 +1,91 @@
+.container-experience{
+    padding-top: 20px
+}
+.experience-title{
+    margin-bottom: 20px
+}
+.services-provided{
+    display: flex;
+     margin-bottom: 40px
+}
+.services-provided-side-bar{
+    width: 28%;
+     margin-top: 7px
+}
+.services-provided-side-bar-select{
+    font-size: 12px;
+     color: rgb(179
+     186
+     193)
+}
+.show-more{
+    display: flex;
+     cursor: pointer;
+     color: #213f5f
+}
+.education{
+    display: flex;
+     margin: 40px 0
+}
+.education-title{
+    width: 28%;
+     margin-top: 7px
+}
+.education-highest-level{
+    font-size: 13px
+}
+.year-experience{
+    display: flex;
+     margin: 40px 0
+}
+.year-experience-title{
+    width: 28%;
+     margin-top: 7px
+}
+.year-experience-handle{
+    display: flex;
+}
+.year-experience-handle-minus{
+    cursor: pointer;
+     margin: 10px 70px 10px 0 
+}
+.year-experience-handle-years{
+    font-size: 30px 
+}
+.year-experience-handle-add{
+    cursor: pointer;
+     margin: 10px 0 10px 70px
+}
+.skills-training{
+    display: flex;
+     margin: 40px 0
+}
+.skills-training-title{
+    width: 28%;
+     margin-top: 7px
+}
+.additional-info{
+    display: flex;
+     margin: 40px 0
+}
+.additional-info-title{
+    width: 28%;
+     margin-top: 7px
+}
+.experience-button{
+    text-align: end;
+     margin:  0 50px 40px 0
+}
+
+.experience-link{
+    text-decoration: none
+}
+
+
+
+.separation-experience{
+    border-radius: 15px;
+     background-color: #b8bbc1;
+     width: 72%;
+     height: 3px
+}

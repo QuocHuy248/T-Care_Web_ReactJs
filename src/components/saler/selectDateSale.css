@@ -1,0 +1,21 @@
+/* Header styles */
+.header {
+    background-color: #3b71aa;
+    height: 3px;
+}
+
+/* Date session styles */
+.date-session {
+    justify-content: center;
+}
+.date-session-map{
+    text-align: -webkit-center
+}
+
+.m0-400{
+    margin: 0px 400px
+    
+}
+.mtop-20{
+    margin-top: 20px;
+}

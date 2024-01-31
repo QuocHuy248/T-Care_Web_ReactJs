@@ -1,0 +1,28 @@
+.bg-h3{
+    background-color: #3b71aa;
+     height: 3px;
+}
+.ta-we-c{
+    text-align: webkit-center;
+}
+.m30-35{
+    margin: 30px 35%
+}
+.pl-50{
+    padding-left: 50px;
+}
+.d-flex-m30-0-jc-sa{
+    display: flex;
+    margin: 30px 0;
+    justify-content: center
+}
+.pointer-m10{
+    cursor: pointer;
+     margin: 10px;
+}
+.ad-h10{
+    height: 10px;
+}
+.fs30{
+    font-size: 30px;
+}

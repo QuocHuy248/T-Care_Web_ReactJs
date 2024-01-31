@@ -1,0 +1,30 @@
+.about{
+    text-align: -webkit-center;
+}
+.about-container{
+    text-align: -webkit-center;
+          width: 80%;
+          border: 1px solid #fd9292e6;
+          border-radius: 45px;
+          background-color: white;
+
+}
+.about-container h1{
+    font-size: 85px; color: rgb(33, 63, 95)
+}
+.about-container h3{
+     color: rgb(33, 63, 95)
+}
+.about-container span{
+    display: inline-block; font-size: 1em; font-weight: bold
+}
+.favorite{
+    color: red;
+    margin-left: 10px;
+}
+.about-footer{
+    width: 70%; text-align: justify; margin-top: 30px; margin-bottom: 50px;
+}
+.w-30{
+    width:30%
+}

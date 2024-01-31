@@ -1,0 +1,14 @@
+.care-hub-footer{
+    width: 100% ;
+    padding: 48px 24px 68px 24px; text-align: -webkit-center;
+    background-color: #ebebeb;
+}
+.care-hub-footer-align{
+    width: 80%; text-align: justify
+}
+.care-hub-footer-align div{
+    font-size: 11px
+}
+.care-hub-footer-align p{
+    font-size: 11px
+}

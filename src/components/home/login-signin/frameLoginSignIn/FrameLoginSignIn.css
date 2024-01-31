@@ -1,0 +1,9 @@
+.container-frame-login-sign-in{
+    margin: 7px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.step-frame-login-sign-in{
+    height: 5px; background-color: #ed8c2b 
+
+}

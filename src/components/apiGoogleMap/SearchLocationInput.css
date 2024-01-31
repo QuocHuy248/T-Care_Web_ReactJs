@@ -1,0 +1,18 @@
+.select-index-user > div:first-child{
+    padding: 0 !important;
+    padding-top: 3px !important;
+}
+.input-index-user{
+    font-size: 12px !important;
+    top:-11px !important
+}
+.input-index-useractive{
+    font-size: 12px !important;
+}
+.m-700-25{
+    margin: 7px 0 0 -25px;
+}
+.pointer{
+    cursor: pointer
+}
+

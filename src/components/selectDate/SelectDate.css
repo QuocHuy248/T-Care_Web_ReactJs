@@ -1,0 +1,75 @@
+.date-in-week {
+    justify-content: center;
+}
+
+.date-in-week-header {
+    height: 40px;
+    justify-content: space-around;
+    width: 400px;
+}
+
+/* Date in week header render styles */
+.date-in-week-header-render- {
+    border: 1px solid #ccd1d6;
+    border-radius: 20px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.date-in-week-header-render-selected {
+    border: 2px solid #3B71AA;
+    border-radius: 20px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.date-in-week-header-render-:hover {
+    border: 1px solid #ccd1d6;
+    border-radius: 20px;
+    width: 40px;
+    cursor: pointer;
+    background-color: #e5d8d8;
+}
+
+.date-in-week-header-render-selected:hover {
+    border: 2px solid #3B71AA;
+    border-radius: 20px;
+    width: 40px;
+    cursor: pointer;
+    background-color: #e5d8d8;
+}
+
+.date-in-week-header-render- span,
+.date-in-week-header-render-selected span {
+    text-align: center;
+    align-self: center;
+}
+#idActive{
+    background-color: #3B71AA;
+    color: white;
+}
+
+.button-date-session {
+    height: 50px;
+    text-align: center;
+}
+.session-render-{
+    color: black !important;
+    border-radius: 20px !important;
+    border: 1px solid #ccd1d6 !important;
+    background-color: white !important;
+    font-size: 12px !important;
+    margin: 0 4px 10px 0 !important;
+}
+.session-render-selected{
+    color: white !important;
+    border-radius: 20px !important;
+    border: 1px solid #ccd1d6 !important;
+    background-color: #3b71aa !important;
+    font-size: 12px !important;
+    margin: 0 4px 10px 0 !important;
+}
+.d-flex-wrap{
+    display: flex;
+     flex-wrap: wrap;
+}

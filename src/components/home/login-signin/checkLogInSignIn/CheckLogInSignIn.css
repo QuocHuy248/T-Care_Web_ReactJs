@@ -1,0 +1,26 @@
+.check-find-{
+    display: flex;
+    text-align: center;
+    margin: 30px 0;
+    border:  1px solid #4285f4;
+     border-radius: 20px; 
+     height: 40px;
+     align-items: center;
+ }
+ .check-find-select-{
+     margin: 0;
+     width: 50%;
+     cursor: pointer;
+   }
+ .check-find-select-active{
+     border: 1px solid #4285f4;
+     border-radius: 25px;
+     background-color: #4285f4;
+     margin: 0;
+     width: 50%;
+     color: white;
+     cursor: pointer;
+     height: 100%;
+     padding-top: 5px;
+   }
+ 

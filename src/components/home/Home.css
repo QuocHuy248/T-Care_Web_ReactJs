@@ -1,0 +1,72 @@
+
+.container-head {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 64px 0 32px;
+    width: 100%;
+    border-bottom: 1px solid #c1c1c1;
+
+}
+body{
+    margin: 0;
+}
+#logInHome{
+    align-self: center;
+    width: 111px;
+}
+.navlink-no-underline{
+    text-decoration: none;
+}
+
+.buttonLogin{
+    background-color: #ec8c29 !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+}
+
+
+
+
+
+.rate-average-top{
+    display: flex;
+    justify-content: center;
+}
+.rate-average-bot{
+    display: flex;
+    justify-content: center;
+}
+.rate-average-rate{
+    font-size: 20px;
+}
+.rate-average-content{
+    font-size: 40px;
+    margin: 0;
+}
+.img-profile-assistant{
+    width: 75px;
+    height: 100px;
+    border: 1px solid #a7a7a700;
+    border-radius: 20px;
+}
+.profile-assistant{
+     width: 94%;
+}
+.border-profile {
+    border-radius: 10px;
+    border: 1px solid #72727247;
+}
+
+.bg-ff{
+    background-color: #FFF1EB;
+}
+.bg-white-bb-red{
+    background-color: white;
+    border-bottom: red;
+}
+.w45{
+    width: 45%;
+}
+.w100{
+    width: 100%;
+}

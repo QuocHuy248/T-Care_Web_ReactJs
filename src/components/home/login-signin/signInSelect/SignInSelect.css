@@ -1,0 +1,68 @@
+.select-category{
+    margin: 64px 500px 30px
+}
+.step-sign-in{
+    background-color: #ed8c2b;
+     height: 3px
+}
+.container-sign-in{
+    margin: 0 195px 40px
+}
+.sign-in-title{
+    text-align: center
+}
+.sign-in-select{
+    display: flex
+}
+.find-care{
+    width: 50%;
+    border: 1px solid #b3bac1;
+    border-radius: 20px;
+    margin: 24px 12px 24px 60px;
+    padding: 0 32px 24px;
+}
+.find-care img{
+    margin: 0 101px; width: 140px
+}
+.find-care-title{
+    cursor: pointer;
+    height: 40px;
+    padding-top: 6px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #213f5f;
+    border-radius: 20px;
+    background-color: #213f5f;
+    color: white;
+}
+.find-care-title span{
+    margin: 0
+}
+.find-jobs{
+    width: 50%;
+    border: 1px solid #b3bac1;
+    border-radius: 20px;
+    margin: 24px 12px ;
+    padding: 0 32px 24px;
+}
+.find-jobs img{
+    margin: 0 101px; width: 140px
+}
+.find-jobs-title{
+    cursor: pointer;
+    height: 40px;
+    padding-top: 6px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #213f5f;
+    border-radius: 20px;
+    background-color: #213f5f;
+    color: white;
+}
+.find-jobs-title span{
+    margin: 0
+}
+.nav-link-select{
+    color: white;
+    text-decoration: none;
+}

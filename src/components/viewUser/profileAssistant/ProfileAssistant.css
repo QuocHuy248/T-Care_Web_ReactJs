@@ -1,0 +1,84 @@
+.MuiModal-root > div{
+    outline: none;
+}
+.check-background-modal-header{
+    background-color: #fbf3ec; display: flex
+}
+.check-background-modal-header-title{
+    width: 60%; margin-left: 30px; font-size: 30px
+}
+
+.check-background-modal-header-close{
+    width: 50px; text-align: end; margin-top: 10px
+}
+.check-background-modal-header-close-icon{
+    cursor: pointer
+}
+.check-background-modal-body{
+    margin: 30px
+}
+.check-background-modal-body-title{
+    font-weight: bold
+}
+.check-background-modal-body-content{
+    display: flex; margin-top: 10px
+}
+.check-background-modal-body-content-security-icon{
+    color: #4093e9
+}
+.check-background-modal-body-content-description{
+    font-size: 13px; margin-left: 5px
+}
+.check-background-modal-procedure{
+    margin: 30px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #f6f7f8;
+}
+.check-background-modal-procedure p{
+    margin-bottom: 10px
+}
+.check-background-modal-procedure ul{
+    margin-bottom: 0
+}
+.check-background-modal-procedure ul li{
+    margin-bottom: 3px
+}
+.check-background-modal-tool{
+    margin: 30px
+}
+.check-background-modal-tool-content{
+    font-size: 13px
+}
+.check-background-modal-tool-render{
+    display: flex; margin: 10px 0
+}
+.check-background-modal-tool-render-combo{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color:  #e7f0fb;
+    text-align: center;
+    padding-top: 2px;
+}
+.check-background-modal-tool-render-combo-icon{
+    font-size: 18px
+}
+.check-background-modal-tool-render-combo-value{
+    padding-top: 3px; margin-left: 4px
+}
+.check-background-modal-button{
+    text-align: center; margin-bottom: 30px
+}
+.rate-modal-header-close{
+    text-align: end;
+    padding: 10px 10px 0 0;
+}
+.rate-modal-header-close-icon{
+    cursor: pointer;
+}
+.textarea-rate-assistant{
+    width: 100%;
+    height: 100px;
+    font-family: "Proxima Nova", Arial, sans-serif;
+}

@@ -1,0 +1,25 @@
+.render-list-assistant-body-render{
+    margin-bottom: 16px ;
+     border: 1px solid #d6dade;
+     border-radius: 20px
+}
+.render-list-assistant-body-render-container{
+    padding: 16px 16px 24px
+}
+.render-list-assistant-body-render-container-header-information{
+    margin-left: 10px;
+     width: 75%
+}
+.render-list-assistant-body-render-container-header img{
+    width: 72px
+}
+.render-list-assistant-body-render-container-body span{
+    text-decoration: underline;
+     color: blue;
+     cursor: pointer
+}
+.ml-5-fs12-mt3{
+    margin-left: "5px";
+     font-size: "12px";
+      margin-top:"3px"
+}

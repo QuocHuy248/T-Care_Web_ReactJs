@@ -1,0 +1,17 @@
+.care-hub{
+    background-color: #dddddd94;
+}
+.care-hub-container{
+    padding: 48px 24px 68px 24px; text-align: -webkit-center
+}
+.care-hub-header{
+    justify-content: center
+}
+.care-hub-header .icons{
+    font-size: 50px; color: rgb(33, 63, 95)
+}
+.care-hub-body{
+    width: 80%; text-align: justify; border-bottom: 1px solid #838383
+    }
+
+
